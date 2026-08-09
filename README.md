@@ -2,7 +2,7 @@
 
 ## QA Lead
 
-[GitHub](https://github.com/svmyhome) · [svmyhome@mail.ru](mailto:svmyhome@mail.ru) 
+[GitHub](https://github.com/svmyhome) · [svmyhome@mail.ru](mailto:svmyhome@mail.ru)
 
 QA Lead с 12+ годами в тестировании web-, backend-, desktop- и mobile-продуктов. Выстраиваю QA-процессы и команды с нуля, планирую качество релизов и развиваю автоматизацию.
 
@@ -44,6 +44,10 @@ QA Lead с 12+ годами в тестировании web-, backend-, desktop-
 
 ### Курсы и обучение
 
+#### OTUS
+
+- [QA Lead](assets/certificates/qa_lead/2026-08-07%2021.18.51.jpg) (2024)
+
 #### QA.GURU
 
 - [Python QA Automation Engineer](assets/certificates/python/2026-08-07%2021.18.59.jpg) (2024)
@@ -51,9 +55,9 @@ QA Lead с 12+ годами в тестировании web-, backend-, desktop-
 - [Advanced Java QA Automation Engineer](assets/certificates/java/photo_2026-08-07%2021.00.15.jpeg) (2026)
 - [Основы автоматизации тестирования ПО](assets/certificates/python/2026-08-07%2021.18.42.jpg)
 
-#### OTUS
+#### Stepik
 
-- [QA Lead](assets/certificates/qa_lead/2026-08-07%2021.18.51.jpg) (2024)
+- [Профиль и пройденные курсы](https://stepik.org/users/188203919/profile)
 
 #### Oracle University
 
@@ -62,7 +66,7 @@ QA Lead с 12+ годами в тестировании web-, backend-, desktop-
 - [Database Administration Workshop II](assets/certificates/oracle/admin_oracle_2.png)
 - [Identity Manager: Administration and Implementation](assets/certificates/oracle/admin_oracle.png)
 
-### Избранные проекты
+### Pet проекты
 
 - [Lenta — автотесты](https://github.com/svmyhome/lenta) — автоматизация web-, API- и Android-тестирования на Java; демонстрирует JUnit 5, Selenide, REST Assured, Appium, Allure, Jenkins, Selenoid и BrowserStack.
 - [E2E-тесты DemoQA](https://github.com/svmyhome/demoqa10-e2e-tests) — UI-, API- и mobile-автоматизация на Python: Pytest, Selene, Requests, Appium, Allure Report, Jenkins и Selenoid.
