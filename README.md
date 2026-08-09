@@ -59,6 +59,10 @@ QA Lead с 12+ годами в тестировании web-, backend-, desktop-
 
 - [Профиль и пройденные курсы](https://stepik.org/users/188203919/profile)
 
+#### Udemy
+
+- [Профиль и пройденные курсы](https://www.udemy.com/user/vladimir-3736/)
+
 #### Oracle University
 
 - [SQL Fundamentals I](assets/certificates/oracle/oracle_fundamentals_1.png)
