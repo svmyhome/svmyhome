@@ -6,30 +6,34 @@
 
 QA Lead с более чем 14-летним опытом в тестировании ПО.
 
-Выстраиваю процессы тестирования и команды с нуля: планирую проверки релизов, помогаю управлять рисками и развиваю автоматизацию.
+Выстраиваю QA-функцию, развиваю команды и помогаю выпускать продукты с предсказуемым уровнем качества.
 
 Около 10 лет работал в финтехе и более 4 лет — в ритейле. До QA 12 лет работал в IT — от системного администрирования до руководящих ролей.
 
-Изучаю практическое применение LLM в QA: анализ требований, подготовка QA-артефактов, rules/skills и RAG для проектной документации.
+### Что делаю как QA Lead
 
-### Чем занимаюсь
-
-- Формирую QA-стратегию, тестовое покрытие и процессы поставки качества.
-- Планирую тестирование релизов, выявляю риски и согласую объём проверок с командой и бизнесом.
-- Тестирую web, backend, desktop и мобильные приложения на Android/iOS: UI, API, интеграции, регресс и smoke.
-- Развиваю и анализирую автотесты, CI/CD-прогоны, логи и мониторинг.
-- Наставляю QA-инженеров, провожу 1:1 и помогаю командам расти.
+- **Стратегия качества и риски релизов.** Формирую QA-стратегию, тестовое покрытие и процессы поставки качества; планирую проверки и согласую объём работ с командой и бизнесом.
+- **Процессы и команда.** Выстраиваю тестовую документацию, регламенты, среды и отчётность; наставляю QA-инженеров, провожу 1:1 и помогаю командам расти.
+- **Техническое качество и автоматизация.** Тестирую UI, API и интеграции, развиваю автотесты, анализирую CI/CD-прогоны, логи и мониторинг.
 
 ### Результаты
 
 - С нуля сформировал и запустил 4 команды тестирования для 4 продуктов.
 - Участвовал во вводе в промышленную эксплуатацию 2 программных продуктов.
 - Выстроил тестовую документацию, регламенты, тестовые среды, отчётность и коммуникацию с командами разработки.
-- Запускал пилоты UI- и REST-автоматизации для portal5.cbr.ru.
+- Запускал пилоты UI- и REST-автоматизации.
 
-### Ключевые направления
+### Избранные проекты
 
-`QA Leadership` · `Стратегия тестирования` · `Тест-дизайн` · `Управление рисками релизов` · `UI / API / Mobile` · `Автоматизация тестирования` · `LLM в QA`
+- [Lenta — автотесты](https://github.com/svmyhome/lenta) — комплексный Java-проект автоматизации web-, API- и Android-тестирования: JUnit 5, Selenide, REST Assured, Appium, Allure, Jenkins, Selenoid и BrowserStack.
+- [E2E-тесты DemoQA](https://github.com/svmyhome/demoqa10-e2e-tests) — пример UI-, API- и mobile-автоматизации на Python с Pytest, Selene, Requests, Appium, Allure Report, Jenkins и Selenoid.
+- [Python Playwright](https://github.com/svmyhome/pythonPlaywright) — UI-автоматизация на Python: структура тестового проекта, Pytest и Playwright.
+- [Niffler](https://github.com/svmyhome/niffler-ng-10) — Java-проект для практики автоматизации: автотесты, сборка и отчётность.
+- [Renovation Planner](https://github.com/svmyhome/Apartment) — собственное веб-приложение для планирования ремонта: FastAPI, PostgreSQL, SQLAlchemy и Alembic.
+
+### Текущий фокус — LLM в QA
+
+Изучаю практическое применение LLM для анализа требований, подготовки QA-артефактов, создания rules/skills и построения RAG для проектной документации.
 
 ### Технологии и инструменты
 
@@ -38,47 +42,23 @@ QA Lead с более чем 14-летним опытом в тестирова�
 | Автоматизация | Python, Java, Pytest, JUnit 5, Selenium, Playwright, Selenide, Appium, Allure |
 | API и интеграции | REST, Postman, Requests, REST Assured, Retrofit, Kafka, Kowl |
 | CI/CD и инфраструктура | Git, GitLab, Jenkins, Docker, Gradle, Selenoid, BrowserStack |
-| Базы данных | Oracle, PostgreSQL, Microsoft SQL Server, MongoDB, Redis |
-| Логи и мониторинг | Kibana, Grafana, Sentry |
-| Нагрузочное тестирование | JMeter |
-| Документация | TM4J, test plan, checklist, test cases, mind map, test report |
-| AI/LLM | Анализ требований, QA-артефакты, rules/skills, RAG для документации |
+| Данные | Oracle, PostgreSQL, Microsoft SQL Server, MongoDB, Redis |
+| Наблюдаемость и нагрузка | Kibana, Grafana, Sentry, JMeter |
 
-### Курсы и обучение
+### Обучение и сертификаты
 
-#### OTUS
+#### QA Lead и автоматизация
 
-- [QA Lead](assets/certificates/qa_lead/2026-08-07%2021.18.51.jpg) (2024)
+- [QA Lead — OTUS](assets/certificates/qa_lead/2026-08-07%2021.18.51.jpg) (2024)
+- [Python QA Automation Engineer — QA.GURU](assets/certificates/python/2026-08-07%2021.18.59.jpg) (2024)
+- [Java QA Automation Engineer — QA.GURU](assets/certificates/java/photo_2026-08-07%2021.01.44.jpeg) (2025)
+- [Advanced Java QA Automation Engineer — QA.GURU](assets/certificates/java/photo_2026-08-07%2021.00.15.jpeg) (2026)
+- [Основы автоматизации тестирования ПО — QA.GURU](assets/certificates/python/2026-08-07%2021.18.42.jpg)
 
-#### QA.GURU
+#### Дополнительная техническая база
 
-- [Python QA Automation Engineer](assets/certificates/python/2026-08-07%2021.18.59.jpg) (2024)
-- [Java QA Automation Engineer](assets/certificates/java/photo_2026-08-07%2021.01.44.jpeg) (2025)
-- [Advanced Java QA Automation Engineer](assets/certificates/java/photo_2026-08-07%2021.00.15.jpeg) (2026)
-- [Основы автоматизации тестирования ПО](assets/certificates/python/2026-08-07%2021.18.42.jpg)
-
-#### Stepik
-
-- [Профиль и пройденные курсы](https://stepik.org/users/188203919/profile)
-
-#### Udemy
-
-- [Профиль и пройденные курсы](https://www.udemy.com/user/vladimir-3736/)
-
-#### Oracle University
-
-- [SQL Fundamentals I](assets/certificates/oracle/oracle_fundamentals_1.png)
-- [SQL Fundamentals II](assets/certificates/oracle/oracle_fundamentals_2.png)
-- [Database Administration Workshop II](assets/certificates/oracle/admin_oracle_2.png)
-- [Identity Manager: Administration and Implementation](assets/certificates/oracle/admin_oracle.png)
-
-### Pet проекты
-
-- [Lenta — автотесты](https://github.com/svmyhome/lenta) — автоматизация web-, API- и Android-тестирования на Java; демонстрирует JUnit 5, Selenide, REST Assured, Appium, Allure, Jenkins, Selenoid и BrowserStack.
-- [E2E-тесты DemoQA](https://github.com/svmyhome/demoqa10-e2e-tests) — UI-, API- и mobile-автоматизация на Python: Pytest, Selene, Requests, Appium, Allure Report, Jenkins и Selenoid.
-- [Python Playwright](https://github.com/svmyhome/pythonPlaywright) — UI-автоматизация на Python с Pytest и Playwright: организация тестового проекта и работа с браузерными сценариями.
-- [Niffler](https://github.com/svmyhome/niffler-ng-10) — Java-проект для практики автоматизации: автотесты, сборка и отчётность.
-- [Renovation Planner](https://github.com/svmyhome/Apartment) — собственное веб-приложение для планирования ремонта: FastAPI, PostgreSQL, SQLAlchemy и Alembic.
+- Oracle University: [SQL Fundamentals I](assets/certificates/oracle/oracle_fundamentals_1.png), [SQL Fundamentals II](assets/certificates/oracle/oracle_fundamentals_2.png), [Database Administration Workshop II](assets/certificates/oracle/admin_oracle_2.png), [Identity Manager: Administration and Implementation](assets/certificates/oracle/admin_oracle.png).
+- [Профиль и пройденные курсы на Stepik](https://stepik.org/users/188203919/profile) · [профиль на Udemy](https://www.udemy.com/user/vladimir-3736/).
 
 ---
 
